@@ -1,6 +1,6 @@
 {
   "name": "Smeagol的二维码插件",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "manifest_version" : 2,
   "description": "Smeagol的二维码Chrome插件，可以方便的将地址栏上的地址转换为二维码",
   "browser_action": {
